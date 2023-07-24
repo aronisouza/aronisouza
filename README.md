@@ -42,4 +42,4 @@ Desenvolvedor Fullstack | PHP | C# .NET Core | HTML/CSS | ReactJS | Typescript
 ![Site](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-![Snake animation]https://github.com/aronisouza/aronisouza/blob/main/.github/workflows/main.yml
+![Snake animation](https://github.com/aronisouza/aronisouza/blob/output/github-contribution-grid-snake.svg)
