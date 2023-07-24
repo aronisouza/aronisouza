@@ -2,44 +2,38 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aronisouza&show_icons=true&theme=tokyonight&include_all_commits=true&langs_count=16&rank_icon=github" />
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aronisouza&layout=compact&langs_count=16&card_width=320&theme=tokyonight" />
 </div>
 
+##
+
+Desenvolvedor Fullstack | PHP | C# .NET Core | HTML/CSS | ReactJS | Typescript
 <div>
   <a href="https://aroni-souza.bubbleapps.io/version-test">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-
    <a href="https://aroni-souza.bubbleapps.io/version-test">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
 </div>
 
-
-Desenvolvedor Fullstack | PHP | C# .NET Core | HTML/CSS | ReactJS | Typescript
-
-## Tecnologias que eu uso no meu dia
+  ## Tecnologias que eu uso no meu dia
+<div>
+  <img height="50px" src="https://encantosdoflorescer.com.br/wp-content/uploads/2023/07/htmal-css.png" />&nbsp;&nbsp;
+  <img height="40px" src="https://encantosdoflorescer.com.br/wp-content/uploads/2023/07/ts.png" />&nbsp;&nbsp;
+  <img height="43px" src="https://encantosdoflorescer.com.br/wp-content/uploads/2023/07/vd-code.png" />&nbsp;&nbsp;
+  <img height="42px" src="https://encantosdoflorescer.com.br/wp-content/uploads/2023/07/c-sharp.png" />&nbsp;&nbsp;
+  <img height="60px" src="https://encantosdoflorescer.com.br/wp-content/uploads/2023/07/node.png" />&nbsp;&nbsp;
+  <img height="50px" src="https://encantosdoflorescer.com.br/wp-content/uploads/2023/07/react.png" />&nbsp;&nbsp;
+  <img height="90px" src="https://encantosdoflorescer.com.br/wp-content/uploads/2023/07/mysql.png" />&nbsp;&nbsp;
+  <img height="50px" src="https://encantosdoflorescer.com.br/wp-content/uploads/2023/07/php.png" />
+</div>
 <br />
 
-![Site](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Site](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![Site](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+  ![Site](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Site](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 <br />
 
-![Site](	https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Site](	https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Site](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Site](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-<br />
-
-![Site](	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Site](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Site](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Site](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Site](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Site](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Site](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-
-![Snake animation](https://github.com/aronisouza/aronisouza/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/aronisouza/aronisouza/blob/output/github-contribution-grid-snake.svg)
