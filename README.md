@@ -7,11 +7,11 @@
 </div>
 
 <div>
-  <a href="htts://aroni-souza.bubbleapps.io/version-test">
+  <a href="https://aroni-souza.bubbleapps.io/version-test">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 
-   <a href="htts://aroni-souza.bubbleapps.io/version-test">
+   <a href="https://aroni-souza.bubbleapps.io/version-test">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
