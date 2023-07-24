@@ -1,15 +1,24 @@
 ## 🚀 Olá sou Aroni Souza 👋🏼
 
-[![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](aroni-souza.bubbleapps.io/version-test)
-[![Site](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](aroni-souza.bubbleapps.io/version-test)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aronisouza&show_icons=true&theme=tokyonight&include_all_commits=true&langs_count=16&rank_icon=github" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aronisouza&layout=compact&langs_count=16&card_width=320&theme=tokyonight" />
+</div>
+
+<div>
+  <a href="htts://aroni-souza.bubbleapps.io/version-test">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+
+   <a href="htts://aroni-souza.bubbleapps.io/version-test">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+</div>
+
 
 Desenvolvedor Fullstack | PHP | C# .NET Core | HTML/CSS | ReactJS | Typescript
-<br/>
-<div>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aronisouza" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aronisouza&layout=compact&langs_count=8&card_width=320" />
-</div>
-<br/>
 
 ## Tecnologias que eu uso no meu dia
 <br />
