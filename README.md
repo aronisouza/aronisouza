@@ -41,8 +41,3 @@ Desenvolvedor Fullstack | PHP | C# .NET Core | HTML/CSS | ReactJS | Typescript
   <img height="60px" src="https://encantosdoflorescer.com.br/wp-content/uploads/2023/07/node.png" />&nbsp;&nbsp;
   <img height="50px" src="https://encantosdoflorescer.com.br/wp-content/uploads/2023/07/react.png" />&nbsp;&nbsp;
 </div>
-<br />
-
-<br />
-
-  ![Snake animation](https://github.com/aronisouza/aronisouza/blob/output/github-contribution-grid-snake.svg)
