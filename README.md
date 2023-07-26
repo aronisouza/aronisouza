@@ -1,7 +1,7 @@
 ## 🚀 Olá sou Aroni Souza 👋🏼
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aronisouza&show_icons=true&theme=tokyonight&include_all_commits=true&langs_count=16&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aronisouza&show_icons=true&theme=tokyonight&include_all_commits=false&langs_count=16&rank_icon=github" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aronisouza&layout=compact&langs_count=16&card_width=320&theme=tokyonight" />
 </div>
 
