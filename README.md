@@ -23,8 +23,8 @@ Desenvolvedor Fullstack | PHP | C# .NET Core | HTML/CSS
 
 ## Skills
 
-![My Skills](https://skillicons.dev/icons?i=php,cs,dotnet,bootstrap,html,js,ts,mysql,css)
+![My Skills](https://skillicons.dev/icons?i=php,cs,dotnet,js,html,css,mysql,cssbootstrap)
 
 ## Estudando no momento
 
-![My Skills](https://skillicons.dev/icons?i=nextjs,nodejs,react,tailwind,prisma,vite)
+![My Skills](https://skillicons.dev/icons?i=nodejs,nextjs,ts,react,vite,tailwind,prisma)
