@@ -1,6 +1,6 @@
 ## 🚀 Olá sou Aroni Souza 👋🏼
 
-Desenvolvedor Fullstack | PHP | C# .NET Core | HTML/CSS
+Desenvolvedor web | PHP | C# .NET Core | Javascript | Reactjs | HTML/CSS
 <div>
   <a href="https://aroni-souza.bubbleapps.io/version-test">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
