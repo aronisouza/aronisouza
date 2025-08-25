@@ -5,7 +5,6 @@ Desenvolvedor web | PHP | C# .NET Core | Javascript | Reactjs | HTML/CSS
   <a href="https://aronisouza.com.br">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-    &nbsp;&nbsp;<img height="30px" src="https://encantosdoflorescer.com.br/wp-content/uploads/2023/07/vd-code.png" />&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/aroni-souza/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
